@@ -8,6 +8,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let myName: String = "Zain"
+    let myCity: String = "Chicago"
 
     override func viewDidLoad() {
         super.viewDidLoad()
