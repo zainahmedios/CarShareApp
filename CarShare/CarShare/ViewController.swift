@@ -16,6 +16,8 @@ class ViewController: UIViewController {
     let myCar:: String = "Ferrari
     
     // This change was made by another dev
+    
+    // here are some changes
 
     override func viewDidLoad() {
         super.viewDidLoad()
