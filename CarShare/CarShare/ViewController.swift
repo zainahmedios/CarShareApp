@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     let myName: String = "Zain"
     let myCity: String = "Chicago"
     
+    let myFood: String = "Biryani"
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
