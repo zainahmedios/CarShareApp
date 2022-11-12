@@ -12,7 +12,6 @@ class ViewController: UIViewController {
     let myName: String = "Zain"
     let myCity: String = "Chicago"
     
-    let myZipCode: Int = 1234567
 
     override func viewDidLoad() {
         super.viewDidLoad()
