@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     let myCity: String = "Chicago"
     
     let myFood: String = "Biryani"
+    let myCar:: String = "Ferrari
     
 
     override func viewDidLoad() {
