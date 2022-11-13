@@ -23,7 +23,11 @@ class ViewController: UIViewController {
     // Usman Made this Change
     var pakistanWillWin: Bool = true
     
-
+    
+    // Muzammil Made this Dictionary
+    let swiftCoders: [String: String] = ["Muzammil Khan": "Chicago","Malik Abdullah":"Chicago","Zain Bhai": "NYC", "Saram Hayat": "NYC", "Jannat Hayat":"NYC", "Usman Bhai":"NYC","Shah Bhai":"Canada","Professor Zain":"Chicago"]
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
