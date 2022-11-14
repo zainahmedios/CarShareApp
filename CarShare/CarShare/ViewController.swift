@@ -23,6 +23,9 @@ class ViewController: UIViewController {
     // Usman Made this Change
     var pakistanWillWin: Bool = true
     
+    // just for practice
+    var didPakistanWin: Bool = false
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
