@@ -34,6 +34,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // change made by Zain
         view.backgroundColor = .green
+        
+        // TESTING - view.backgroundColor = .red (SHAH)
+        view.backgroundColor = .red
     }
 
 
