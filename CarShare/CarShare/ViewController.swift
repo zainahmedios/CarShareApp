@@ -30,6 +30,10 @@ class ViewController: UIViewController {
     // just for practice
     var didPakistanWin: Bool = false
     
+    // In Shaa Allah Saram and thr rst of the class will geta job soon. professor Zain bes Professor of al time
+    
+    var name = ("Saram","Hayat")
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // change made by Zain
