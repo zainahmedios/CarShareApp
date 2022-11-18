@@ -8,17 +8,17 @@
 import UIKit
 
 class ViewController: UIViewController {
+
+    @IBOutlet weak var courseName: UILabel!
+    
     
     let myName: String = "Zain"
     let myCity: String = "Chicago"
     
     let myFood: String = "Biryani"
-    let myCar:: String = "Ferrari
+    let myCar: String = "Ferrari"
     
     // This change was made by another dev
-    
-    // here are some changes
-    
     
     // Usman Made this Change
     var pakistanWillWin: Bool = true
@@ -38,7 +38,5 @@ class ViewController: UIViewController {
         // TESTING - view.backgroundColor = .red (SHAH)
         view.backgroundColor = .red
     }
-
-
 }
 
