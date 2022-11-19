@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var courseName: UILabel!
     
     // New Change
-    
+    // Zain added this
     
     let myName: String = "Zain"
     let myCity: String = "Chicago"
