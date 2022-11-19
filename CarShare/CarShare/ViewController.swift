@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     
     // New Change
     // Zain added this
-    
+    // A change was made
     let myName: String = "Zain"
     let myCity: String = "Chicago"
     
