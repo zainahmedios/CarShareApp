@@ -11,6 +11,8 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var courseName: UILabel!
     
+    // New Change
+    
     
     let myName: String = "Zain"
     let myCity: String = "Chicago"
