@@ -18,6 +18,9 @@ class ViewController: UIViewController {
     let myFood: String = "Biryani"
     let myCar: String = "Ferrari"
     
+    // By Omar
+    let firstName: String = "Omar"
+    
     // This change was made by another dev
     
     // Usman Made this Change
