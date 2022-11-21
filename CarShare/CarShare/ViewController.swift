@@ -39,6 +39,10 @@ class ViewController: UIViewController {
         
         // TESTING - view.backgroundColor = .red (SHAH)
         view.backgroundColor = .red
+        
+        for (key,value) in swiftCoders{
+            print(key, value)
+        }
     }
 }
 
