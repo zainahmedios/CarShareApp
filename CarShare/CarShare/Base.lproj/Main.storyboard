@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina6_12" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -17,11 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Code Swiftly" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dNy-fK-g7M">
-                                <rect key="frame" x="83" y="383" width="227" height="86"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="226" id="wNS-ku-fDI"/>
-                                    <constraint firstAttribute="height" constant="86" id="znh-ey-vmU"/>
-                                </constraints>
+                                <rect key="frame" x="103.33333333333331" y="408" width="186.33333333333337" height="36"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="30"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -30,10 +26,8 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="dNy-fK-g7M" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="5GY-dX-t0x"/>
-                            <constraint firstItem="dNy-fK-g7M" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="NnT-4u-Zss"/>
-                            <constraint firstItem="dNy-fK-g7M" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="83" id="Q4B-Ol-Zx5"/>
-                            <constraint firstItem="dNy-fK-g7M" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="324" id="dFz-Ca-B7A"/>
+                            <constraint firstItem="dNy-fK-g7M" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="aJT-tb-aUm"/>
+                            <constraint firstItem="dNy-fK-g7M" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="tQd-b6-U1k"/>
                         </constraints>
                     </view>
                     <connections>
