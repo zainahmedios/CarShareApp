@@ -8,7 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    // Added by Malik Abdullah
+    @IBOutlet weak var classLabel: UILabel!
     @IBOutlet weak var courseName: UILabel!
     
     // New Change
@@ -39,6 +40,8 @@ class ViewController: UIViewController {
         
         // TESTING - view.backgroundColor = .red (SHAH)
         view.backgroundColor = .red
+        // Changes Labels text when view Loads
+        classLabel.text = "Class of 2022"
         
         for (key,value) in swiftCoders{
             print(key, value)
